@@ -228,5 +228,6 @@ void ordering(){
 int main(){
 	system("COLOR A0");																	//changing BG and text colour 
 	printf("\n\n\t\t\tWELCOME TO THE UNIQUE BREW CAFETERIA\n\n"); 
-	ordering();																			//this step is everything and self exlanatory
+	ordering(); //this step is everything and self exlanatory
+	printf("\n\n\n\t\t\tThankyou for visiting\n\n");
 }
